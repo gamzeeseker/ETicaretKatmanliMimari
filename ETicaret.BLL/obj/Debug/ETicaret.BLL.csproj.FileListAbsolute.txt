@@ -1,0 +1,17 @@
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll.config
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.BLL\bin\Debug\ETicaret.BLL.pdb
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.BLL\bin\Debug\EntityFramework.dll
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.BLL\bin\Debug\ETicaret.DAL.dll
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.BLL\bin\Debug\ETicaret.Model.dll
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.BLL\bin\Debug\ETicaret.DAL.pdb
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.BLL\bin\Debug\ETicaret.DAL.dll.config
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.BLL\bin\Debug\ETicaret.Model.pdb
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.BLL\bin\Debug\EntityFramework.xml
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.BLL\obj\Debug\ETicaret.BLL.csprojAssemblyReference.cache
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CoreCompileInputs.cache
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CopyComplete
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.BLL\obj\Debug\ETicaret.BLL.dll
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.BLL\obj\Debug\ETicaret.BLL.pdb

@@ -1,0 +1,29 @@
+﻿@model  ETicaret.BLL.MVVM.MVVM
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>AD</th>
+        <th>TELEFON</th>
+        <th>ADRES</th>
+        <th>ALINAN ÜRÜN</th>
+        <th>SİL</th>
+    </tr>
+    @foreach (var item in Model.ListUser)
+    {
+        <tr>
+            <td>@item.userId</td>
+            <td>@item.userName</td>
+            <td>@item.userPhone</td>
+            <td>@item.userAdress</td>
+            <td>@item.Product.productId</td>
+            <td><a class="btn btn-danger" href="/MainPage/Delete/@item.userId">SİL</a></td>
+        </tr>
+    }
+</table>

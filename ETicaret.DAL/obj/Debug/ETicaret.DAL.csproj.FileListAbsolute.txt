@@ -1,0 +1,14 @@
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.DAL\bin\Debug\ETicaret.DAL.dll.config
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.DAL\bin\Debug\ETicaret.DAL.dll
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.DAL\bin\Debug\ETicaret.DAL.pdb
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.DAL\bin\Debug\EntityFramework.dll
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.DAL\bin\Debug\ETicaret.Model.dll
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.DAL\bin\Debug\ETicaret.Model.pdb
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.DAL\bin\Debug\EntityFramework.xml
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.DAL\obj\Debug\ETicaret.DAL.csprojAssemblyReference.cache
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.DAL\obj\Debug\ETicaret.DAL.csproj.CoreCompileInputs.cache
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.DAL\obj\Debug\ETicaret.DAL.csproj.CopyComplete
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.DAL\obj\Debug\ETicaret.DAL.dll
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.DAL\obj\Debug\ETicaret.DAL.pdb

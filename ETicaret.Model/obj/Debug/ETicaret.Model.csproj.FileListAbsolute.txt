@@ -1,0 +1,5 @@
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.Model\bin\Debug\ETicaret.Model.dll
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.Model\bin\Debug\ETicaret.Model.pdb
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.Model\obj\Debug\ETicaret.Model.csproj.CoreCompileInputs.cache
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.Model\obj\Debug\ETicaret.Model.dll
+C:\Users\GAMZE SEKER\Desktop\ETicaretKatmanliMimari\ETicaret.Model\obj\Debug\ETicaret.Model.pdb
